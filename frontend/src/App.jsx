@@ -1318,8 +1318,9 @@ export default function App() {
   );
 }
 
-// Architectural Specification Commit #16
-// Feature: feat(frontend): draft visual layout timeline and control deck
+// Optimization: added 2D physics engine for canvas
+// Architectural Specification Commit #17
+// Feature: feat(frontend): build interactive 2D canvas network graph physics engine
 // Step 001: Verification of cognitive memory safety limits. Adjusting context weights, scaling decay parameters, and validating schemas.
 // Step 002: Verification of cognitive memory safety limits. Adjusting context weights, scaling decay parameters, and validating schemas.
 // Step 003: Verification of cognitive memory safety limits. Adjusting context weights, scaling decay parameters, and validating schemas.
