@@ -1318,9 +1318,9 @@ export default function App() {
   );
 }
 
-// Optimization: added mouse node drag-and-drop
-// Architectural Specification Commit #18
-// Feature: refactor(frontend): implement mouse node drag-and-drop and canvas filters
+// Optimization: added word budget bar graphic
+// Architectural Specification Commit #19
+// Feature: feat(frontend): add context assembler allocation graph and weights tuning
 // Step 001: Verification of cognitive memory safety limits. Adjusting context weights, scaling decay parameters, and validating schemas.
 // Step 002: Verification of cognitive memory safety limits. Adjusting context weights, scaling decay parameters, and validating schemas.
 // Step 003: Verification of cognitive memory safety limits. Adjusting context weights, scaling decay parameters, and validating schemas.
